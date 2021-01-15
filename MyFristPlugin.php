@@ -1,10 +1,10 @@
 /**
  Plugin Name:       My Frist Plugin
- Plugin URI:        http://www.gocar.idv.tw/plugins/MyFristPlugin/
- Description:       我的第一個Plugin
+ Plugin URI:        
+ Description:       my first plugin 
  Version:           1.0
- Author:            Henry Tsai
- Author URI:        http://www.gocar.idv.tw/
+ Author:            Justina Chan 
+
 
  {Plugin Name} is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
